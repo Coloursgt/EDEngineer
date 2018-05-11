@@ -3697,7 +3697,7 @@
       "cs": "Gold"
     },
     "Kamitra Cigars": {
-      "es": null,
+      "es": "Cigarros de Kamitra",
       "pt": "Charutos de Kamitra",
       "de": "Kamitra-Zigarren",
       "fr": "Cigares de Kamitra",
@@ -3751,7 +3751,7 @@
       "cs": "Meta-alloys"
     },
     "Painite": {
-      "es": null,
+      "es": "Painita",
       "pt": "Painita",
       "de": "Painit",
       "fr": "Painite",
@@ -3796,7 +3796,7 @@
       "cs": "Pouze surové(Raw only)"
     },
     "Manufactured": {
-      "es": null,
+      "es": "Fabricado",
       "pt": "Fabricado",
       "de": "hergestellt",
       "fr": "Manufacturé(s)",
@@ -3814,7 +3814,7 @@
       "cs": "Pouze vyrobené(Manufact.only)"
     },
     "Unrecognized Ingredient (showing name as it appears in the logs). Please open a GitHub issue to let the author know what is the real name of this!": {
-      "es": null,
+      "es": "Ingrediente no reconocido (mostrando el nombre tal como aparece en los registros). ¡Abre una discusión en GitHub para que el autor sepa cuál es el verdadero nombre de esto!",
       "pt": "Ingrediente não reconhecido (mostrando o nome como aparece nos registros). Abra um problema do GitHub para que o autor saiba qual é o nome verdadeiro disso!",
       "de": null,
       "fr": null,
@@ -3823,7 +3823,7 @@
       "cs": "Nerozpoznaná ingredience (Zobrazené jméno je tak, jak se vyskytuje v logu). Prosím otevřete požadavek na GitHubu a dejte vědět autorovi správný název ingredience!"
     },
     "Group ingredients?": {
-      "es": null,
+      "es": "Grupo de ingredientes",
       "pt": null,
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
@@ -3832,7 +3832,7 @@
       "cs": "Seskupovat ingredience?"
     },
     "Unknown": {
-      "es": null,
+      "es": "Desconocido",
       "pt": null,
       "de": "Unbekannt",
       "fr": "Inconnu",
@@ -3841,7 +3841,7 @@
       "cs": "Neznámé"
     },
     "Carrying ": {
-      "es": null,
+      "es": "Carga",
       "pt": null,
       "de": null,
       "fr": "Capacité",
@@ -3850,7 +3850,7 @@
       "cs": "Vlastněno "
     },
     "Emission Data": {
-      "es": null,
+      "es": "Datos de Emisión",
       "pt": null,
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
@@ -4876,7 +4876,7 @@
       "cs": "Cluster Capacitor"
     },
     "Thargoid": {
-      "es": null,
+      "es": "Thargoide",
       "pt": null,
       "de": null,
       "fr": null,
@@ -4894,7 +4894,7 @@
       "cs": "Získáno nejvíce v systému"
     },
     "System:": {
-      "es": null,
+      "es": "Systema:",
       "pt": null,
       "de": null,
       "fr": null,
@@ -4902,8 +4902,8 @@
       "pl": null,
       "cs": "Systém:"
     },
-    "You have:": {
-      "es": null,
+    "You Have:": {
+      "es": "Tú Tienes:",
       "pt": null,
       "de": null,
       "fr": null,
